@@ -4,4 +4,4 @@ Results: In this paper, we propose a model called 4mCBERT by integrating sequenc
 Conclusions: Based on the comparison results, 4mCBERT shows higher performance on multiple benchmark datasets by incorporating sequence and chemical information features. Besides, a user-friendly graphical user interface software is developed for academics at http://cczubio.top/4mCBERT. 
 
 # Note  
-# The code and data are available at   
+# The code and data are available at https://drive.google.com/file/d/1sHRIOGslvvj2H759Wziq5gls3LaxlPJK/view?usp=sharing  
